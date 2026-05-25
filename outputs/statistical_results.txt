@@ -1,0 +1,7 @@
+--- STATISTICAL RESULTS (R. Saad / TUPM-25-0679) ---
+Mean Power: 2.31
+Median Power: 0.00
+Power Std Dev: 2.43
+Power Variance: 5.92
+Pearson Correlation (r): 0.507
+--------------------------------------------------
